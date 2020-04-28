@@ -64,7 +64,7 @@ imshow('rafa.jpg');
 axes(handles.axes3);
 imshow('gon.jpeg');
 axes(handles.axes4);
-imshow('bruno.jpg');
+imshow('sofia.jpg');
 % UIWAIT makes autores wait for user response (see UIRESUME)
 % uiwait(handles.figure1);
 
